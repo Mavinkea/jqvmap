@@ -2,4 +2,4 @@ An interactive map made for the Stony Brook University Study Abroad page using a
 The project allows users to click on continents and countries, and it returns a box with study abroad opportunities in
 those selected countries. Made by Aril Mavinkere, Erica Troge, and Jessica Zeng. 
 
-The original vector map open source can be found at jqvmap.com.
+The original vector map open source can be found at [jqvmap.com.](http://jqvmap.com)
